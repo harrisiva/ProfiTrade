@@ -12,9 +12,10 @@ The algorithm uses a wide variety of screeners to identify and select the right 
 3. The GUI should now open on your browser and run locally
 4. Follow the instructions presented to you on the dashboard
 
-## Future Features
-1. Mobile app
-2. User customized trading algorithm that does not require code
+## Additional instructions:
+* To backtest your own strategy on any ticker use "terminal_backtest_stock.py" or "terminal_backtest_crypto.py"
+* "main.py" simply contains primary functions used on "dashboard.py"
+* Streamlit, API the front end is built upon, uses HTML, CSS and JS to run python code locally on your web browser
 
 ## APIs' Used
 * Beautiful soup
@@ -31,3 +32,8 @@ The algorithm uses a wide variety of screeners to identify and select the right 
 * email.mime
 * streamlit
 * matplotlib
+
+## Future Features
+1. Mobile app
+2. User customized trading algorithm that does not require code
+3. Secure login page for the web and mobile app
