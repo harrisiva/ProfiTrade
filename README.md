@@ -15,3 +15,19 @@ The algorithm uses a wide variety of screeners to identify and select the right 
 ## Future Features
 1. Mobile app
 2. User customized trading algorithm that does not require code
+
+## API Info
+* Beautiful soup
+* AlphaVantage
+* Pandas
+* openyxl
+* csv
+* finnhub
+* datetime
+* time
+* smtplib
+* pytz
+* email.message
+* email.mime
+* streamlit
+* matplotlib
