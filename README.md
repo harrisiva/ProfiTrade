@@ -1,5 +1,5 @@
 # ProfiTrade
-A fintech application that automates trading relative to the users' risk tolerance built entirely using Python.
+A fintech application that automates trading relative to the users' risk tolerance built entirely using Python in the span of 48 hours.
 
 ## What it does
 Based on the user's risk tolerance the algorithm uses mean reversion models on crypto currency and equities to place high-frequency trades or swing trades. Each trade is notified via email and a custom log is kept on an XL file.
