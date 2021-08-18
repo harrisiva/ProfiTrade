@@ -37,3 +37,12 @@ The algorithm uses a wide variety of screeners to identify and select the right 
 1. Mobile app
 2. User customized trading algorithm that does not require code
 3. Secure login page for the web and mobile app
+
+## Displayed Skills
+* Web Scraping
+* Data Frame
+* Conditoinal Operations
+* Object Oriented Programing
+* Application Programming Interface
+* Data Mining
+* Basic Error Handling
