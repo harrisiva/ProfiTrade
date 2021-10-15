@@ -46,3 +46,10 @@ The algorithm uses a wide variety of screeners to identify and select the right 
 * Application Programming Interface
 * Data Mining
 * Basic Error Handling
+
+## UI
+![1](https://user-images.githubusercontent.com/76477563/137539648-67eeb70f-2af9-465d-9edf-8e62dc5de5b4.PNG)
+![2](https://user-images.githubusercontent.com/76477563/137539666-6bd9935f-a1f6-4103-9612-407d6f4424a3.PNG)
+![3](https://user-images.githubusercontent.com/76477563/137539685-3e9f76e8-cdeb-47bb-8fba-fcc8f9ae4370.PNG)
+![4](https://user-images.githubusercontent.com/76477563/137539706-323f90c7-32b4-4bad-8a6d-0d8299a90d09.PNG)
+![6](https://user-images.githubusercontent.com/76477563/137539723-97195255-148c-409f-943e-9bc2eb5aeef9.PNG)
